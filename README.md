@@ -13,4 +13,9 @@ Analyze monthly revenue and order volume using SQL aggregate functions on the `o
 - `order_date`
 - `amount`
 - `product_id`
+ ## Insights & Learning
+- Learned how to extract and group data by time (month/year)
+- Applied aggregate functions for trend analysis
+- Gained familiarity with handling real-world sales data
+
 
