@@ -3,7 +3,7 @@
 ##  Objective
 Analyze monthly revenue and order volume using SQL aggregate functions on the `online_sales` dataset.
 
-## 🛠 Tools Used
+## Tools Used
 - PostgreSQL (or MySQL/SQLite)
 - SQL aggregate functions
 - CSV Dataset (`Online Sales Data.csv`)
